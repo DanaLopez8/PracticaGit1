@@ -6,9 +6,9 @@ public class Main {
         // Crear y mostrar datos del Cliente 1
         Cliente objCliente = new Cliente();
         objCliente.setIdCliente(100);
-        objCliente.setNomCliente("Drogbag");
+        objCliente.setNomCliente("Pedro");
         objCliente.setDirCliente("Impeldown");
-        objCliente.setTelCliente("3225699546");
+        objCliente.setTelCliente("32058966547");
         objCliente.setMailClient("talkback@bag.com");
 
         System.out.println("\nDatos del Cliente 1:");
